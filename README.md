@@ -1,4 +1,4 @@
-# Secrettops
+# Secrettops 🔒 
 This project proposes the idea to use the Zero Knowledge Proof concept in modern authentication systems.
 This systems lets you authenticate without even sharing any sensitive information like password over the internet! 
 Read more about Zero Knowledge Proof here: [ZKP](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
