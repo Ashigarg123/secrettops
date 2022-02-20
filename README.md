@@ -1,5 +1,5 @@
 # Secrettops
-
+This project proposes the idea to use the Zero Knowledge Proof concept in modern authentication systems.
 
 ## Demo
 Youtube video here 
