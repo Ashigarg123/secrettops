@@ -1,27 +1,60 @@
-# Cusehack
+# Secrettops 🔒 
+This project proposes the idea to use the Zero Knowledge Proof concept in modern authentication systems.
+This systems lets you authenticate without even sharing any sensitive information like password over the internet! 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+Read more about Zero Knowledge Proof here: [ZKP](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
-## Development server
+## Why Zero Knowledge Proof?
+See the video demonstration here: [video](https://app.animaker.com/animo/0zqBawvYOnw5zZxC)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Demo
+Youtube video here 
 
-## Code scaffolding
+## Tech Stack 🛠
+**Client:** Angular
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**Server:** Node, Express
+## Run Locally
 
-## Build
+Clone the project
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+  git clone https://github.com/Ashigarg123/secrettops.git
+```
 
-## Running unit tests
+Go to the project directory
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+  cd my-project
+```
 
-## Running end-to-end tests
+Install dependencies
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+  npm install
+```
 
-## Further help
+Start the server
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+  npm run start
+```
+## Key features and benefits 
+- Does not require users to share any type of information
+- Does not involve any complex encryption method
+- Users need not worry about information storage for including compatibility and identity with different types of assets
+- No sharing of password over internet
+- No fear of password leakage
+- Protection against attacks like: MITM, Dictionary attack etc..
+
+## Screenshots
+![image](https://github.com/Ashigarg123/secrettops/blob/main/image1.png)
+
+## Authors
+
+- [Adarsh Gupta](https://github.com/adarshguptacse18)
+- [Rhea Shastri](https://github.com/Rio-cyber)
+- [Ashi Garg](https://github.com/Ashigarg123)
+
+
+![Logo](https://github.com/Ashigarg123/secrettops/blob/main/Secrettops!.gif)
