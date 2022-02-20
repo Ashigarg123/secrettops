@@ -1,0 +1,29 @@
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+
+  <div class="container-fluid">
+
+    <div class="background">
+       <div class="cube"></div>
+       <div class="cube"></div>
+       <div class="cube"></div>
+       <div class="cube"></div>
+      <div class="cube"></div>
+      <h1> Login</h1>
+      <div class='container'>
+          
+        <h2>or <a href='#'> Register</a></h2>
+        <div class='form'>
+          <form *ngFor="let l of login1">
+          <input type="text" value="username" name="username" />
+        
+          <input type='text' value='password' name="password" />
+       
+          <button type='submit' value='Login' (click)="login(l.username,l.password)" >Login </button>
+        </form>
+        </div>
+    </div>
+      
+         
+      <div>
+    </div>
+    
