@@ -14,6 +14,11 @@ Youtube video here
 
 **Server:** Node, Express
 
+## Features
+- No sharing of password over internet
+- No fear of password leakage
+- Protection against attacks like: MITM, Dictionary attack etc..
+
 ## Screenshots
 ![image](https://github.com/Ashigarg123/secrettops/blob/main/image1.png)
 
