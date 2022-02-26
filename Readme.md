@@ -42,7 +42,7 @@ Start the server
 ## Key features and benefits 
 - Does not require users to share any type of information
 - Does not involve any complex encryption method
-- Users need not worry about information storage for including compatibility and identity with different types of assets
+- Users need not worry about information storage, including compatibility and identity with different types of assets
 - No sharing of password over internet
 - No fear of password leakage
 - Protection against attacks like: MITM, Dictionary attack etc..
