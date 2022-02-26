@@ -11,7 +11,7 @@ See the video demonstration here: [video](https://app.animaker.com/animo/0zqBawv
 Youtube video here 
 
 ## Tech Stack 🛠
-**Client:** Angular
+**Client:** HTML, CSS
 
 **Server:** Node, Express
 ## Run Locally
